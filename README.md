@@ -1,8 +1,8 @@
-# PythonProject-StudyCafe
+PythonProject-StudyCafe
 1학기 파이썬 프로젝트 - 스터디카페 😊
 
 
-# >**스터디 카페 프로젝트**
+# >**Study Cafe Project**
 >실행 파일이름
 - main.py
 >실행방법
